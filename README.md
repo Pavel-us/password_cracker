@@ -14,8 +14,8 @@ How to Use the Program
   python3 password_cracker.py
 
 4. Select a language:
-  1. Русский / Russian
-  2. English
+  Mode 1: Русский / Russian
+  Mode 2: English
 
 5. Choose a mode:
    
