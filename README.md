@@ -18,7 +18,9 @@ How to Use the Program
   2. English
 
 5. Choose a mode:
+   
   Mode 1: Estimate the time for a password of a given length and complexity.
+  
   Mode 2: Estimate the time for an entered password.
 
 Notes:
